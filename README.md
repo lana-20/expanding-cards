@@ -1,5 +1,5 @@
-| [Expanding Cards](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/Expanding%20Cards) | [Live Demo](https://lana-20.github.io/expanding-cards/) |
-| --- | --- |
+| [Expanding Cards](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/Expanding%20Cards) | [Live Demo](https://lana-20.github.io/expanding-cards/) | [Video](https://drive.google.com/file/d/1cv6XIIK4JeGt6iWuHu1Ix7VU2Jnv2FRB/view?usp=sharing) |
+| --- | --- | --- |
 
 ![image](https://user-images.githubusercontent.com/70295997/167318693-71349346-0397-4e85-901a-00292726abc5.png)
 
