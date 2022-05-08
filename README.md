@@ -1,6 +1,10 @@
 | [Expanding Cards](https://github.com/lana-20/50_Projects_in_50_Days/tree/main/Expanding%20Cards) | [Live Demo](https://lana-20.github.io/expanding-cards/) |
 | --- | --- |
 
+![image](https://user-images.githubusercontent.com/70295997/167318693-71349346-0397-4e85-901a-00292726abc5.png)
+
+
+
 In this project I am building expanding cards. 
 Basically, I am styling panels to have a background image and a heading. 
 I am using flex blocks to align everything. 
